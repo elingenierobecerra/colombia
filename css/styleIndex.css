@@ -34,3 +34,24 @@
     border-right: 2px;
     border-bottom: 2px;
 }
+.head{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.x{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.equis{
+    margin: 10px;
+}
+.circulo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 10px;    
+}
