@@ -11,10 +11,10 @@
 .izquierda{
     width: 50vw;
     height: 100vh;
-    background-color: rgb(220, 131, 22);
+    background-color: rgb(210, 125, 20);
 }
 .derecha{
     width: 50vw;
     height: 100vh;
-    background-color: rgb(226, 192, 141);
+    background-color: blanchedalmond;
 }
