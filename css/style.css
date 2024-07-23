@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.content{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.izquierda{
+    width: 50vw;
+    height: 100vh;
+    background-color: rgb(220, 131, 22);
+}
+.derecha{
+    width: 50vw;
+    height: 100vh;
+    background-color: rgb(226, 192, 141);
+}
